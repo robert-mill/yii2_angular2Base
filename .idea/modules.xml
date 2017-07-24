@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/yii2_angular2Base.iml" filepath="$PROJECT_DIR$/.idea/yii2_angular2Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yii2template.iml" filepath="$PROJECT_DIR$/.idea/yii2template.iml" />
     </modules>
   </component>
 </project>

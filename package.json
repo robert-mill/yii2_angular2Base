@@ -1,0 +1,19 @@
+{
+  "name": "yii2_angular2base",
+  "version": "1.0.0",
+  "description": "hybrid ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-mill/yii2_angular2Base.git"
+  },
+  "author": "Robert Mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-mill/yii2_angular2Base/issues"
+  },
+  "homepage": "https://github.com/robert-mill/yii2_angular2Base#readme"
+}
